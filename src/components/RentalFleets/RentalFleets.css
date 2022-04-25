@@ -1,0 +1,50 @@
+.Rental__fleets {
+    overflow: hidden;
+    background-color: #F5F5F5;
+    padding: 40px 0;
+}
+
+.rental-fleets-container,
+.rental-fleets-title,
+.car-card-container {
+    overflow: hidden;
+}
+
+.rental-fleets-container .hr {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.rental-fleets-title {
+    text-align: center;
+}
+
+
+.car-card-container {
+    margin-top: 40px;
+}
+
+.car-card-container .car-card-item {
+    text-align: center;
+}
+
+.car-card-item h5 {
+    font-weight: 600;
+}
+
+.car-card-item img {
+    height: 240px;
+}
+
+.car-card-icons {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.year:hover,
+.miles:hover,
+.cc:hover {
+    cursor: pointer;
+    color: #DC2D13;
+}
