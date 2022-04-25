@@ -1,0 +1,45 @@
+.header {
+    overflow: hidden;
+    background-color: #F5F5F5;
+}
+
+.header-container {
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 10px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.header-content {
+    overflow: hidden;
+    padding-left: 0 !important;
+}
+
+.header-content h1 {
+    font-size: 30px;
+    font-weight: 600;
+    padding-left: 0 !important;
+}
+
+.header-banner {
+    background-image: url(../../img/header/header-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.header-container .car-details {
+    overflow: hidden;
+}
+
+.pick-up label,
+.drop-off label {
+    font-weight: 500;
+    cursor: pointer;
+}
+

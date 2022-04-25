@@ -1,0 +1,15 @@
+.key-features {
+    padding: 40px 0;
+    height: 100vh;
+}
+
+
+/* Key Features Section starts */
+.features-container {
+    margin-top: 30px;
+}
+
+.features-container .feature-item {
+    text-align: center;
+}
+/* Key Features Section ends */
