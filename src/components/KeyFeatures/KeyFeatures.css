@@ -1,6 +1,5 @@
-.key-features {
+.Key__Features {
     padding: 40px 0;
-    height: 100vh;
 }
 
 
@@ -12,4 +11,28 @@
 .features-container .feature-item {
     text-align: center;
 }
+
+.feature-item .card-body {
+    padding: 40px 0;
+    border-bottom: 2px solid #2d3436;
+}
+
+.feature-item .feature-title-border {
+    width: 20%;
+    /* text-align: center; */
+    margin: 0 auto;
+}
+
+.feature-item .feature-icon {
+    font-size: 60px;
+    color: #DC2D13;
+}
+
+.feature-item h5 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+
 /* Key Features Section ends */
