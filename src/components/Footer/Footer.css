@@ -1,0 +1,56 @@
+.Footer {
+    overflow: hidden;
+    padding-top: 40px;
+    background-color: #000000;
+    color: white;
+}
+
+.footer-content p {
+    font-size: 14px;
+    color: #b2bec3;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.footer-copyright p {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.footer-content .contact-icon {
+    margin-right: 7px;
+}
+
+.submit-button {
+    background-color: #DC2D13;
+    color: white;
+    transition: all 0.3s;
+    margin-top: 20px;
+    width: 100%;
+}
+
+
+.submit-button:hover {
+    background-color: #FEA400;
+    color: white;
+}
+
+
+.contact .social-icon {
+    margin-right: 20px;
+    font-size: 30px;
+    color: #DC2D13;
+    transition: all 0.3s;
+    cursor: pointer;
+}
+
+.contact .social-icon:hover {
+    color: #FEA400;
+}
+
+
+@media screen and (max-width: 768px) {
+    .newsletter {
+        margin-top: 30px;
+    }
+}

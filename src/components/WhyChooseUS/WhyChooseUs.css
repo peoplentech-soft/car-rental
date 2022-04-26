@@ -1,0 +1,49 @@
+.WhyChooseUs {
+    overflow: hidden;
+    padding: 40px 0;
+    background-color: #F5F5F5;
+}
+
+.whyChooseUsContainerTittle {
+    text-align: center;
+}
+
+.whyChooseUsContainerTittle .hr {
+    width:30%;
+    margin: 0 auto;
+}
+
+.content-container {
+    margin-top: 50px;
+}
+
+.content-container .content-item {
+    text-align: center;
+    padding: 10px;
+}
+
+.content-item .item {
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #F8F9FA;
+}
+
+.content-item-hr {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.content-item p {
+    margin-bottom: 0;
+    font-size: 14px;
+}
+
+.content-item-icon {
+    font-size: 20px;
+    color: #DC2D13;
+    transition: all 0.3s;
+}
+
+.content-item:hover .content-item-icon {
+    color: #FEA400;
+}

@@ -1,0 +1,47 @@
+.Blog {
+    overflow: hidden;
+    padding: 40px 0;
+}
+
+.blogHr {
+    width: 10%;
+}
+
+.blogCardContainer {
+    margin-top: 40px;
+}
+
+.blogCard {
+    border-radius: 10px;
+    background-color: #F5F5F5;
+    overflow: hidden;
+    border-right: 3px solid #DC2D13;
+    transition: all 0.3s;
+    margin-bottom: 30px;
+}
+
+.blogCard:hover {
+    border-right: 3px solid #FEA400;
+}
+
+.blogCard p {
+    margin-bottom: 0;
+}
+
+.blogCard >.blogPost {
+    padding: 30px;
+    overflow: hidden;
+}
+
+
+.blogImage {
+    padding: 0 !important;
+}
+
+.blogPost {
+    padding: 0 30px;
+}
+
+.blogImage img {
+    display: inline-block;
+}

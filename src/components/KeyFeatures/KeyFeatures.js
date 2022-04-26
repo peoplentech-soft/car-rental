@@ -10,7 +10,7 @@ const KeyFeatures = () => {
                 <h2>Key Features</h2>
 
                 <div class="row features-container">
-                    <div class="col-sm-4 feature-item">
+                    <div class="col-md-4 col-sm-12 feature-item">
                         <div class="card">
                             <div class="card-body shadow">
                                 <FontAwesomeIcon icon={faClock} className="feature-icon"/>
@@ -22,7 +22,7 @@ const KeyFeatures = () => {
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-4 feature-item">
+                    <div class="col-md-4 col-sm-12 feature-item">
                         <div class="card">
                             <div class="card-body shadow">
                                 <FontAwesomeIcon icon={faCar} className="feature-icon"/>
@@ -34,7 +34,7 @@ const KeyFeatures = () => {
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-4 feature-item">
+                    <div class="col-md-4 col-sm-12 feature-item">
                         <div class="card">
                             <div class="card-body shadow">
                                 <FontAwesomeIcon icon={faMoneyCheckDollar} className="feature-icon"/>

@@ -1,6 +1,7 @@
 .header {
     overflow: hidden;
     background-color: #F5F5F5;
+    padding: 40px 0;
 }
 
 .header-container {
@@ -9,17 +10,16 @@
     align-items: center;
     justify-content: flex-end;
     padding-right: 10px;
-    padding-top: 40px;
-    padding-bottom: 40px;
 }
 
 .header-content {
     overflow: hidden;
     padding-left: 0 !important;
+    padding-right: 20px;
 }
 
 .header-content h1 {
-    font-size: 30px;
+    font-size: 24px;
     font-weight: 600;
     padding-left: 0 !important;
 }
