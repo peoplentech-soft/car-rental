@@ -6,14 +6,14 @@ const Booking = () => {
         <div>
             <div id="booking" class="section">
                 <div class="section-center">
-                    <div class="container">
-                        <div class="row">
+                    <div class="container-brand">
+                        <div class="">
                             <div class="booking-form shadow">
                                 <form>
                                     <div class="row no-margin">
                                         <div class="col-md-3">
                                             <div class="form-group">
-                                                <span class="form-label">Destination</span>
+                                                <span class="form-label">Pick Point</span>
                                                 <input class="form-control" type="text" placeholder="Country, ZIP, city..."/>
                                             </div>
                                         </div>

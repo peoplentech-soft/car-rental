@@ -1,5 +1,6 @@
 {
   "name": "car-rental",
+  "homepage": "https://apps.piit.us/portfolio/pickcar.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
